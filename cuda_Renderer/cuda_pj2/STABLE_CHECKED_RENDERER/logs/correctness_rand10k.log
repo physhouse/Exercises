@@ -1,0 +1,25 @@
+Rendering to 768x768 image
+Loaded scene with 10000 circles
+Loaded scene with 10000 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: Tesla M2070
+   SMs:        14
+   Global mem: 5375 MB
+   CUDA Cap:   2.0
+---------------------------------------------------------
+WARNING: You're not running on a fast GPU, please consider using NVIDIA GTX 480, 670 or 780.
+---------------------------------------------------------
+
+Running benchmark, 1 frames, beginning at frame 0 ...
+Time to generate Tree:    4.31900000 ms 
+Time to generate Tree:   12.72000000 ms 
+Copying image data from device
+***************** Correctness check passed **************************
+Clear:    0.1483 ms
+Advance:  0.0017 ms
+Render:   17.0327 ms
+Total:    17.1827 ms
+
+Overall:  0.5387 sec (note units are seconds)

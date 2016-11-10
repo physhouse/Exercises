@@ -1,0 +1,18 @@
+Rendering to 768x768 image
+Loaded scene with 1217 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: Tesla M2070
+   SMs:        14
+   Global mem: 5375 MB
+   CUDA Cap:   2.0
+---------------------------------------------------------
+
+Running benchmark, 4 frames, beginning at frame 0 ...
+Clear:    0.0996 ms
+Advance:  0.0012 ms
+Render:   1.0728 ms
+Total:    1.1737 ms
+
+Overall:  0.0048 sec (note units are seconds)

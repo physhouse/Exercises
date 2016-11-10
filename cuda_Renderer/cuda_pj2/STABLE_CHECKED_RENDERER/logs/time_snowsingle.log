@@ -1,0 +1,19 @@
+Rendering to 768x768 image
+Loaded data for 100000 circles from snow.par
+Loaded scene with 100000 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: Tesla M2070
+   SMs:        14
+   Global mem: 5375 MB
+   CUDA Cap:   2.0
+---------------------------------------------------------
+
+Running benchmark, 4 frames, beginning at frame 0 ...
+Clear:    0.1005 ms
+Advance:  0.0013 ms
+Render:   65.0551 ms
+Total:    65.1568 ms
+
+Overall:  0.2607 sec (note units are seconds)

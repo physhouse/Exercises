@@ -1,0 +1,5 @@
+Implementing a domain decomposition algorithm
+
+(1)Divide the whole graph into dim * dim subdomains
+(2)Partition the particles that attribute to the subdomain
+(3)For pixel shading, only update the particles within the same domain as the pixel

@@ -1,0 +1,77 @@
+Rendering to 768x768 image
+Loaded scene with 10000 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: Tesla M2075
+   SMs:        14
+   Global mem: 5375 MB
+   CUDA Cap:   2.0
+---------------------------------------------------------
+WARNING: You're not running on a fast GPU, please consider using NVIDIA GTX 480, 670 or 780.
+---------------------------------------------------------
+Copying image data from device
+0 : before 0 after 0 0
+16 : before 16 after 120 0
+1 : before 1 after 0 496
+17 : before 17 after 136 0
+2 : before 2 after 1 0
+3 : before 3 after 3 0
+18 : before 18 after 153 0
+4 : before 4 after 6 0
+5 : before 5 after 10 0
+19 : before 19 after 171 0
+6 : before 6 after 15 0
+20 : before 20 after 190 0
+7 : before 7 after 21 0
+8 : before 8 after 28 0
+9 : before 9 after 36 0
+21 : before 21 after 210 0
+10 : before 10 after 45 0
+11 : before 11 after 55 0
+12 : before 12 after 66 0
+22 : before 22 after 231 0
+13 : before 13 after 78 0
+14 : before 14 after 91 0
+15 : before 15 after 105 0
+23 : before 23 after 253 0
+24 : before 24 after 276 0
+25 : before 25 after 300 0
+26 : before 26 after 325 0
+27 : before 27 after 351 0
+28 : before 28 after 378 0
+29 : before 29 after 406 0
+30 : before 30 after 435 0
+31 : before 31 after 465 0
+32 : before 32 after 464 0
+33 : before 33 after 463 1
+34 : before 34 after 462 3
+48 : before 48 after 448 136
+35 : before 35 after 461 6
+49 : before 49 after 447 153
+36 : before 36 after 460 10
+50 : before 50 after 446 171
+37 : before 37 after 459 15
+51 : before 51 after 445 190
+38 : before 38 after 458 21
+39 : before 39 after 457 28
+52 : before 52 after 444 210
+40 : before 40 after 456 36
+41 : before 41 after 455 45
+42 : before 42 after 454 55
+43 : before 43 after 453 66
+44 : before 44 after 452 78
+45 : before 45 after 451 91
+46 : before 46 after 450 105
+47 : before 47 after 449 120
+53 : before 53 after 443 231
+54 : before 54 after 442 253
+55 : before 55 after 441 276
+56 : before 56 after 440 300
+57 : before 57 after 439 325
+58 : before 58 after 438 351
+59 : before 59 after 437 378
+60 : before 60 after 436 406
+61 : before 61 after 435 435
+62 : before 62 after 434 465
+63 : before 63 after 433 496
